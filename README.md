@@ -12,8 +12,9 @@ This is not an official, or supported, Google product.
 # Installation
 
 To install all dependencies:
-
-  pip3 install absl-py urllib3 pytype attrs parameterized python-dateutil
+```
+pip3 install absl-py urllib3 pytype attrs parameterized python-dateutil
+```
 
 # Contributing
 
